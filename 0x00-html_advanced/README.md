@@ -30,3 +30,12 @@
   <dd>This is the definition for Term 2.</dd>
 </dl>
 ```
+
+- The <blockquote> element is used to indicate a long quotation. It should contain only block-level elements within it and not just plain text, while <cite> element is used to define the title of a work, such as a book, a song, a poem, a painting, or any other creative work, Here's a basic example:
+
+```
+<blockquote>
+  <p>“The only thing necessary for the triumph of evil is for good men to do nothing.”</p>
+  <cite>Edmund Burke</cite>
+</blockquote>
+```

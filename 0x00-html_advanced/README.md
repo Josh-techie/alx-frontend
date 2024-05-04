@@ -19,3 +19,14 @@
 ---
 
 <h2> Tasks </h2>
+
+- To create a definition in HTML, you can use the <dl> element for the definition list, <dt> for the term, and <dd> for the definition. Here's a basic example:
+
+```
+<dl>
+  <dt>Term 1</dt>
+  <dd>This is the definition for Term 1.</dd>
+  <dt>Term 2</dt>
+  <dd>This is the definition for Term 2.</dd>
+</dl>
+```

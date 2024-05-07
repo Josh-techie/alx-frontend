@@ -40,6 +40,13 @@
 </blockquote>
 ```
 
+- The `<q>` tag is used to represent a short inline quotation in HTML. It is typically used to quote a phrase or sentence from another source.
+  **PS: `<q>` is suitable for short, inline quotations, while `<blockquote>` is more appropriate for longer quotations (for long or multi-line quotations that are quoted from another source).**
+
+```
+<p>As Albert Einstein once said, <q>Imagination is more important than knowledge.</q></p>
+```
+
 ---
 
 <h2> Author </h2>

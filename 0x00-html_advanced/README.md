@@ -47,6 +47,20 @@
 <p>As Albert Einstein once said, <q>Imagination is more important than knowledge.</q></p>
 ```
 
+- The `colspan` attribute in HTML tables allows cells to span across multiple columns. It's useful for creating headers, merging cells, and designing table layouts. For example:
+
+```html
+<table>
+  <tr>
+    <th colspan="2">Contact</th>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>john.doe@example.com</td>
+  </tr>
+</table>
+```
+
 ---
 
 <h2> Author </h2>

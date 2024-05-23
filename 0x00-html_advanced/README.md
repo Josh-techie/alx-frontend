@@ -82,6 +82,18 @@
 </table>
 ```
 
+- The `<details>` element is used to create an interactive disclosure widget, where the user can toggle the visibility of additional information. The `<summary>` element is used to provide a summary or title for the `<details>` element.
+
+```html
+<details>
+  <summary>Read More</summary>
+  <p>
+    This is the additional information that will be displayed when the user
+    clicks the "Read More" summary.
+  </p>
+</details>
+```
+
 ---
 
 <h2> Author </h2>

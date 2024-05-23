@@ -64,6 +64,24 @@
 </table>
 ```
 
+- The `<caption>` tag is used to provide a title or caption for an HTML table. It should be placed immediately after the `<table>` opening tag
+
+```html
+<table>
+  <caption>
+    Contact Information
+  </caption>
+  <tr>
+    <th>Name</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>John Doe</td>
+    <td>john.doe@example.com</td>
+  </tr>
+</table>
+```
+
 ---
 
 <h2> Author </h2>
